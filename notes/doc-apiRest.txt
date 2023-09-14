@@ -1,0 +1,13 @@
+1. instalaciones: node, postman
+2. npm init -y + index.js + npm install --save express + npm i body-parser
+3. en el package.json agregar -> "type": "module",
+
+4. body-parser sirve para convertir el cuerpo de la solicitud a varios formatos, incluido json.
+5. npm install --save-dev nodemon -->  config script "start": "nodemon index.js"
+   ejecutar como npm start
+6. ruta get lista
+7. instalar postman, preparar ruta post: body ---> raw ---> json
+8. npm install uuid
+9. get ID
+10. Delete
+11. pasar a carpeta controllers
